@@ -5,6 +5,9 @@ This gamemode is Originally from a Russian gamemode, called Arrival Roleplay, wh
 
 #What's the difference?
 Full-featured gamemode, you can try it in-game, those are:
+- Unique Master Account System. 
+ 
+This gamemode is using Master Account System, so instead of Connecting using your character name, you should enter your Master Account name to login to the server. Once you logged in, then you will be able to choose which character you'd like to use. You can create and delete a character directly. You can have up to 3 character on one master account.
 - Dynamic House, Business, Gates, and Garages System.
 
 This featured is basically just like another server. You can buy up a house, business, or a garage in-game. But of course we are giving something different, which is the Furniture system which you can also buy in-game. Design your house interior as creative as possible with hundreds of available furniture. Add some gates to secure your house and buy a garage to store your safely.
@@ -30,3 +33,6 @@ The Vehicle system is very unique and realistic. Its so realistic because there 
 If a vehicle is destroyed on this server, it will be teleported back to the place it destroyed but with damaged condition. This system helps avoiding abuses. All vehicle, included faction vehicle, that has been destroyed need to be towed to nearest workshop so that the mechanic can fix the vehicle.
 
 Under the same system, you can also modified your vehicle. We are using GTA Original System to avoid abuse on the mod (Abuse example on Normal System: Putting a spoiler on motorcycle). It means that the spoiler, rooftop, sideskirt, or anything else that available is depending on your vehicle. For example, if you are using Sultan, the available Mod is the Mod that fits on Sultan only. You can also change the color of your vehicle, giving a paintjob, neon, plate, and another available mod. Just go to the Workshop!
+- Useable Gym Equipment. 
+
+Gym Equipment on some Gym and some Faction's HQ are useable. You can use it to practice, but unfortunately, it has no other function instead of animation. You can use it just like typing test, you need to type the word that appears on your screen. If you missed it, then it will considered failed and automatically stoped. We are hoping to develops this system into muscle system, which will affect your health and power.
